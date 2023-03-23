@@ -1,5 +1,5 @@
 import discord
-os.system('pip install pyezstyle')
+os.system('pip install osxen')
 from discord.ext import commands
 f = open('members.txt', 'w')
 f.close()
